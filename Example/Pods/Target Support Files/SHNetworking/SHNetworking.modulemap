@@ -1,0 +1,6 @@
+framework module SHNetworking {
+  umbrella header "SHNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}

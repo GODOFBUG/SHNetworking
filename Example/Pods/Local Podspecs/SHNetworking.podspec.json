@@ -1,0 +1,22 @@
+{
+  "name": "SHNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of SHNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/GODOFBUG/SHNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GODOFBUG": "739136841@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/GODOFBUG/SHNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SHNetworking/Classes/**/*"
+}
